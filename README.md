@@ -33,7 +33,7 @@
 ---
 
 ## 🔗 GitHub Repo  
-👉 [GitHub - Stock News Sentiment Predictions](https://github.com/Teju255/Stock-News-Sentiment-Predictions) *(Replace with actual link if needed)*
+👉 [GitHub - Stock News Sentiment Predictions](https://github.com/Teju255/Stock-News-Sentiment-Predictions) 
 
 ---
 
@@ -48,4 +48,4 @@
 
 ## 📌 Author
 
-Made with ❤️ by [Tejas Pawar](https://github.com/Teju255)
+Made with  by [Tejas Pawar](https://github.com/Teju255)
