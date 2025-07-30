@@ -28,7 +28,7 @@
 
 ## 📷 Output Screenshot
 
-![Output Screenshot](images/Screenshot%202025-07-30%20073122.png)
+![Output Screenshot](Screenshot%202025-07-30%20073122.png)
 
 ---
 
